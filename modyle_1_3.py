@@ -1,4 +1,3 @@
-from operator import truediv
 
 name = 'Andrey'
 print('Name:', name)
