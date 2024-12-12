@@ -1,5 +1,7 @@
 def divide(first,second):
     if second == 0:
-        print('Ошибка')
+        eror = 'Ошибка'
+        return eror
     else:
-        print(first / second)
+        div_fs = first / second
+        return div_fs
